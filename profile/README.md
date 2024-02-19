@@ -2,19 +2,19 @@
 
 This is the github organization for hyperparam, where we share open-source contributions to the machine learning community.
 
-## hyparquet
+## hyparquet :parrot:
 
 Streaming parquet file parser for JavaScript.
 
 https://github.com/hyparam/hyparquet
 
-## hysnappy
+## hysnappy :penguin:
 
 Snappy decompression with WebAssembly.
 
 https://github.com/hyparam/hysnappy
 
-## hyllama
+## hyllama :llama:
 
 Llama.cpp gguf file parser for JavaScript.
 
