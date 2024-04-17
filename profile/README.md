@@ -4,18 +4,18 @@ This is the github organization for hyperparam, where we share open-source contr
 
 ## hyparquet :parrot:
 
-Streaming parquet file parser for JavaScript.
+Parquet file parser with async streaming in the browser.
 
 https://github.com/hyparam/hyparquet
 
 ## hysnappy :penguin:
 
-Snappy decompression with WebAssembly.
+Snappy decompression optimized with WebAssembly for faster parquet parsing.
 
 https://github.com/hyparam/hysnappy
 
 ## hyllama :llama:
 
-Llama.cpp gguf file parser for JavaScript.
+Parse metadata from llama.cpp gguf files in JavaScript.
 
 https://github.com/hyparam/hyllama
