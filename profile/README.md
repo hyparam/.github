@@ -20,6 +20,12 @@ Snappy decompression optimized with WebAssembly for faster parquet parsing.
 
 https://github.com/hyparam/hysnappy
 
+## HighTable :classical_building:
+
+Windowed table component for viewing arbitrarily large datasets.
+
+https://github.com/hyparam/hightable
+
 ## hyllama :llama:
 
 Parse metadata from llama.cpp gguf files in JavaScript.
