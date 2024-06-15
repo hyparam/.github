@@ -8,7 +8,13 @@ Parquet file parser with async streaming in the browser.
 
 https://github.com/hyparam/hyparquet
 
-## hysnappy :penguin:
+### hyparquet-compressors :bird:
+
+Decompress every parquet compression format.
+
+https://github.com/hyparam/hyparquet-compressors
+
+### hysnappy :penguin:
 
 Snappy decompression optimized with WebAssembly for faster parquet parsing.
 
