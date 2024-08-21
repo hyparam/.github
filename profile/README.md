@@ -31,3 +31,9 @@ https://github.com/hyparam/hightable
 Parse metadata from llama.cpp gguf files in JavaScript.
 
 https://github.com/hyparam/hyllama
+
+## hyperparam cli :eyes:
+
+Scalable dataset viewer for machine learning datasets.
+
+https://github.com/hyparam/hyperparam-cli
