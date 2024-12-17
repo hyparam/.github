@@ -20,6 +20,12 @@ Snappy decompression optimized with WebAssembly for faster parquet parsing.
 
 https://github.com/hyparam/hysnappy
 
+### geoparquet :earth_americas:
+
+Geoparquet to geojson converter.
+
+https://github.com/hyparam/geoparquet
+
 ## HighTable :classical_building:
 
 Windowed table component for viewing arbitrarily large datasets.
