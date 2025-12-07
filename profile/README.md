@@ -1,6 +1,6 @@
-# hyperparam - the missing UI for machine learning
+# Hyperparam - AI Data in the Browser
 
-This is the github organization for hyperparam, where we share open-source contributions to the machine learning community. 100% JavaScript.
+This is the github for [Hyperparam](https://hyperparam.app), where we share open-source contributions to the AI and Data Engineering communities. AI needs lots of data, so we're building tools for working with massive text datasets in the browser.
 
 ## hyparquet :parrot:
 
@@ -37,6 +37,12 @@ https://github.com/hyparam/hightable
 Apache Iceberg table reader in JavaScript.
 
 https://github.com/hyparam/icebird
+
+## squirreling :chipmunk:
+
+Squirreling Async SQL Engine for querying large datasets in the browser.
+
+https://github.com/hyparam/squirreling
 
 ## hyllama :llama:
 
