@@ -17,12 +17,6 @@ Async SQL engine for querying large datasets in the browser.
 :classical_building: [HighTable](https://github.com/hyparam/hightable) —
 Windowed table component for viewing arbitrarily large datasets.
 
-:mag: [HypGrep](https://github.com/hyparam/hypgrep) —
-Full text search for parquet with a compact n-gram index.
-
-:triangular_ruler: [HypVector](https://github.com/hyparam/hypvector) —
-Store and query embedding vectors directly out of parquet files.
-
 :llama: [HyLlama](https://github.com/hyparam/hyllama) —
 Parse metadata from llama.cpp gguf files in JavaScript.
 
