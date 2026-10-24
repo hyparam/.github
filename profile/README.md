@@ -2,6 +2,9 @@
 
 This is the github for [Hyperparam](https://hyperparam.app), where we share open-source contributions to the AI and Data Engineering communities. AI needs lots of data, so we're building tools for working with massive text datasets in the browser.
 
+:eye: [HypAware](https://github.com/hyparam/hypaware) —
+The improvement loop for all your agents.
+
 :parrot: [Hyparquet](https://github.com/hyparam/hyparquet) —
 Parquet file parser for loading datasets in the browser.
 
@@ -19,6 +22,3 @@ Windowed table component for viewing arbitrarily large datasets.
 
 :llama: [HyLlama](https://github.com/hyparam/hyllama) —
 Parse metadata from llama.cpp gguf files in JavaScript.
-
-:eyes: [Hyperparam CLI](https://github.com/hyparam/hyperparam-cli) —
-Scalable dataset viewer for machine learning datasets.
